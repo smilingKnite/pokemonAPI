@@ -1,0 +1,16 @@
+body {
+	background: linear-gradient(to right, darkred, #EAE7D8);
+	height: 100%;
+}
+header {
+	margin: auto;
+	text-align: center;
+}
+#wrapper {
+	background: linear-gradient(to right, #EAE7D8, darkred); 
+	padding: 10px;
+	border-radius: 15px;
+	color: white;
+	text-decoration: underline;
+}
+
